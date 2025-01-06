@@ -10,8 +10,6 @@ This project is a Workout Tracker application built using Kotlin, Jetpack Compos
 2. [Setup and Installation](#setup-and-installation)
 3. [Technologies Used](#technologies-used)
 4. [Demo Video](#demo-video)
-5. [License](#license)
-
 ---
 
 ## Features
@@ -57,10 +55,4 @@ This project is a Workout Tracker application built using Kotlin, Jetpack Compos
 ## Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/kK7lzOTbk7M/0.jpg)](https://www.youtube.com/watch?v=kK7lzOTbk7M)
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
