@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Auth Strings -->
+    <string name="error">Hata</string>
+    <string name="ok">Tamam</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="confirm_password">Şifre Tekrar</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signup">Kayıt Ol</string>
+    <string name="go_back">Geri Dön</string>
+    <string name="send_reset_link">Sıfırlama Bağlantısı Gönder</string>
+    <string name="passwords_not_match">Şifreler eşleşmiyor</string>
+    <string name="dont_you_have_an_account">Hesabın yok mu?</string>
+
+    <!-- Profile Strings -->
+    <string name="name">İsim</string>
+    <string name="edit">Düzenle</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="logout">Çıkış Yap</string>
+
+    <!-- Workout Strings -->
+    <string name="workouts">Antrenmanlar</string>
+    <string name="new_workout">Yeni Antrenman</string>
+    <string name="workout_name">Antrenman Adı</string>
+    <string name="workout_type">Antrenman Türü</string>
+    <string name="description">Açıklama</string>
+    <string name="image_url">Resim URL (isteğe bağlı)</string>
+    <string name="start_workout">Antrenmanı Başlat</string>
+    <string name="end_workout">Antrenmanı Sonlandır</string>
+    <string name="end_workout_confirm">Antrenmanı sonlandırmak istediğinize emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+
+    <!-- Exercise Strings -->
+    <string name="exercise_name">Egzersizler</string>
+    <string name="sets">Set</string>
+    <string name="reps">Tekrar</string>
+    <string name="weight">Ağırlık (kg)</string>
+    <string name="previous">Önceki</string>
+    <string name="next">Sonraki</string>
+    <string name="finish">Bitir</string>
+
+    <!-- Settings -->
+    <string name="settings">Ayarlar</string>
+    <string name="language">Dil</string>
+    <string name="language_tr">Türkçe</string>
+    <string name="language_en">English</string>
+    <string name="language_change_title">Dil Değişikliği</string>
+    <string name="language_change_message">Dil değişikliği için uygulama yeniden başlatılacak. Devam etmek istiyor musunuz?</string>
+
+    <!-- Common -->
+    <string name="add">Ekle</string>
+    <string name="delete">Sil</string>
+    <string name="search">Ara</string>
+    <string name="close">Kapat</string>
+    <string name="back">Geri</string>
+    <string name="done">Tamam</string>
+    <string name="notes">Notlar</string>
+    <string name="default_sets">Varsayılan Set</string>
+    <string name="default_reps">Varsayılan Tekrar</string>
+    <string name="default_weight">Varsayılan Ağırlık (kg)</string>
+    <string name="save_exercise">Egzersizi Kaydet</string>
+    <string name="save_workout">Antrenmanı Kaydet</string>
+    <string name="delete_exercise">Egzersizi Sil</string>
+    <string name="delete_workout">Antrenmanı Sil</string>
+    <string name="delete_confirm">Silmek istediğinize emin misiniz?</string>
+    <string name="reset_password">\"Şifreyi Sıfırla\"</string>
+
+    <!-- Exercise History -->
+    <string name="last_workout">Son antrenman</string>
+    <string name="last_five_workouts">Son 5 antrenman</string>
+    <string name="no_workout_history">Henüz antrenman geçmişi yok</string>
+    <string name="select_workout_type">Selected workout type</string>
+</resources>
