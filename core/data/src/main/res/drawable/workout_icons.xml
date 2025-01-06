@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="strength_training">@drawable/ic_strength</drawable>
+    <drawable name="cardio">@drawable/ic_cardio</drawable>
+    <drawable name="yoga">@drawable/ic_yoga</drawable>
+    <drawable name="hiit">@drawable/ic_hiit</drawable>
+    <drawable name="crossfit">@drawable/ic_crossfit</drawable>
+    <drawable name="pilates">@drawable/ic_pilates</drawable>
+    <drawable name="functional">@drawable/ic_functional</drawable>
+    <drawable name="stretching">@drawable/ic_stretching</drawable>
+    <drawable name="bodyweight">@drawable/ic_bodyweight</drawable>
+</resources> 
